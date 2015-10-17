@@ -1,4 +1,5 @@
-<doctype html>
+<doctype php>
+<?php include("extra.php");?>
 <html>
 	<head>
 		<title>MaseChase</title>
