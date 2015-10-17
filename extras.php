@@ -1,4 +1,3 @@
 <?php 
-$title="MaseChase V16";
-
+$title="<title>MaseChase V17</title>";
 ?>
