@@ -1,4 +1,4 @@
-<doctype php>
+<doctype html>
 <?php include("extra.php");?>
 <html>
 	<head>
